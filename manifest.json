@@ -1,0 +1,16 @@
+{
+  "name": "Compteur de dés",
+  "short_name": "Dés",
+  "description": "Compteur de scores pour jouer aux dés à plusieurs",
+  "start_url": "./index.html",
+  "scope": "./",
+  "display": "standalone",
+  "orientation": "any",
+  "lang": "fr-CA",
+  "background_color": "#0e0f16",
+  "theme_color": "#0e0f16",
+  "icons": [
+    { "src": "icons/icon-192.png", "sizes": "192x192", "type": "image/png", "purpose": "any maskable" },
+    { "src": "icons/icon-512.png", "sizes": "512x512", "type": "image/png", "purpose": "any maskable" }
+  ]
+}
